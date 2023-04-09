@@ -3,3 +3,6 @@ TODO web app is a powerful productivity tool that helps users manage their tasks
 
 # LIVE LINK
 https://ajay-nishad25.github.io/React-TODO/
+
+# Sample Images
+![alt text](https://telegra.ph/file/6f865ba63eeb49ca30f4d.jpg)
