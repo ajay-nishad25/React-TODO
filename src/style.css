@@ -1,0 +1,42 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  .no-task {
+    color: rgb(168, 168, 168);
+  }
+  
+  form {
+    margin-bottom: 1rem;
+  }
+  
+  input[type="text"] {
+    width: 327px;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-right: 0.5rem;
+  }
+  
+  button[type="submit"] {
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: none;
+    background-color: #008cba;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #138305;
+  }
+  
